@@ -36,3 +36,7 @@ I chose to do this project because it helps visualize creating parse trees for C
 ------------------
 
 pumping_lemma_tester.py --> a program that takes a regex, string, and pumping length, and outputs whether the string is a regular language by determining if it can be pumped using the pumping lemma. The pumping lemma was one of the more conceptually challenging concepts for me. However, after writing this program, I feel I have a better understanding of the lemma itself, and how to use it to determine if a string is regular. 
+
+------------------
+
+output.txt --> contains example outputs for each program
